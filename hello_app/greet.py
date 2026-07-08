@@ -5,3 +5,6 @@ def greetWhite():
     """Выводит приветствие для White"""
     print("hello white")
 
+def greetBlack():
+    """Выводит приветствие для Black"""
+    print("hello black")
